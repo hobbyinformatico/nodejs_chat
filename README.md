@@ -3,7 +3,8 @@ NodeJs version v18.16.0
 
 ## init e dipendenze
 ```
-nvm use v18.16.0
+nvm install 18.16.0
+nvm use 18.16.0
 
 npm init -y
 npm install socket.io express http socket.io-client
