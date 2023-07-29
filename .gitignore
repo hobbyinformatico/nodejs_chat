@@ -1,0 +1,11 @@
+# NodeJS
+node_modules/
+
+# log
+*.log
+
+# ignoro i file che contengono "log"
+*log*
+
+# ignoro le cartelle che i file che contengono "log"
+*log*/
